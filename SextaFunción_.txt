@@ -1,0 +1,13 @@
+¿Qué entiende como "commit"?
+- A la acción de almacenar y dar por hecho 
+un cambio efectuado en el programa o aplicación.
+
+¿Qué entiende como "merge?
+- A combinar o fusionar dos elementos con 
+propiedades en común (en este caso, fusionar dos
+ramas).
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+- Pull funcionar para actualizar el repositorio
+local al commit más nuevo y Push sirve para subir 
+la rama al repositorio remoto en el que se trabaja. 
