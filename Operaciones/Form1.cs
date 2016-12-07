@@ -68,7 +68,7 @@ namespace Operaciones
             b = double.Parse(textBox8.Text);
             h = double.Parse(textBox7.Text);
             area = b * h;
-            MessageBox.Show("El área es: " + area);
+            MessageBox.Show("El área es: " + area + " _201503529");
         }
 
         private void button4_Click_1(object sender, EventArgs e)
@@ -78,7 +78,7 @@ namespace Operaciones
             b = double.Parse(textBox8.Text);
             h = double.Parse(textBox7.Text);
             per = (2 * h) + (2 * b);
-            MessageBox.Show("El perímetro es: " + per);
+            MessageBox.Show("El perímetro es: " + per + " _201503529");
         }
 
         private void button7_Click(object sender, EventArgs e)
