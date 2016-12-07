@@ -80,5 +80,27 @@ namespace Operaciones
             per = (2 * h) + (2 * b);
             MessageBox.Show("El perímetro es: " + per);
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            double area;
+            double b, h, p;
+            b = double.Parse(textBox9.Text);
+            h = double.Parse(textBox4.Text);
+            p = double.Parse(textBox10.Text);
+            area = 2 * ((b * p) + (b * h) + (p * h));
+            MessageBox.Show("El área es: " + area);
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            double vol;
+            double b, h, p;
+            b = double.Parse(textBox9.Text);
+            h = double.Parse(textBox4.Text);
+            p = double.Parse(textBox10.Text);
+            vol = b * h * p;
+            MessageBox.Show("El volumen es: " + vol);
+        }
     }
 }
