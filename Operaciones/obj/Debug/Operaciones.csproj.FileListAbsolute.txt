@@ -7,3 +7,12 @@ c:\users\user1\documents\visual studio 2015\Projects\Operaciones\Operaciones\obj
 c:\users\user1\documents\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
 c:\users\user1\documents\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.exe
 c:\users\user1\documents\visual studio 2015\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\USER1\Desktop\Vacaciones Diciembre\IPC\GitKraken\HT1\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache

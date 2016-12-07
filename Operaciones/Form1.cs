@@ -50,5 +50,15 @@ namespace Operaciones
         {
 
         }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            double vol;
+            double r, h;
+            r = double.Parse(textBox6.Text);
+            h = double.Parse(textBox5.Text);
+            vol = (Math.PI * (r * r) * h) / 3;
+            MessageBox.Show("El volumen es: " + vol);
+        }
     }
 }
